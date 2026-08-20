@@ -1,0 +1,24 @@
+{
+  "source": "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Views/MyTripsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World 👋",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "My trips",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 38
+        }
+      }
+    ]
+  },
+  "version": 1
+}

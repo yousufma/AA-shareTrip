@@ -1,0 +1,69 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTrips-primary.dia",
+    "emit-module-dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTrips-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTrips-primary-emit-module.dia",
+    "pch" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTrips-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTrips-primary.swiftdeps"
+  },
+  "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/AAMyTripsApp.swift" : {
+    "const-values" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTripsApp.swiftconstvalues",
+    "dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTripsApp.d",
+    "diagnostics" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTripsApp.dia",
+    "index-unit-output-path" : "/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTripsApp.o",
+    "llvm-bc" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTripsApp.bc",
+    "object" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTripsApp.o",
+    "swift-dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTripsApp.swiftdeps",
+    "swiftmodule" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/AAMyTripsApp~partial.swiftmodule"
+  },
+  "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Models/Trip.swift" : {
+    "const-values" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/Trip.swiftconstvalues",
+    "dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/Trip.d",
+    "diagnostics" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/Trip.dia",
+    "index-unit-output-path" : "/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/Trip.o",
+    "llvm-bc" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/Trip.bc",
+    "object" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/Trip.o",
+    "swift-dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/Trip.swiftdeps",
+    "swiftmodule" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/Trip~partial.swiftmodule"
+  },
+  "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Share/TripShareItemSource.swift" : {
+    "const-values" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripShareItemSource.swiftconstvalues",
+    "dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripShareItemSource.d",
+    "diagnostics" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripShareItemSource.dia",
+    "index-unit-output-path" : "/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripShareItemSource.o",
+    "llvm-bc" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripShareItemSource.bc",
+    "object" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripShareItemSource.o",
+    "swift-dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripShareItemSource.swiftdeps",
+    "swiftmodule" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripShareItemSource~partial.swiftmodule"
+  },
+  "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Views/MyTripsView.swift" : {
+    "const-values" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/MyTripsView.swiftconstvalues",
+    "dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/MyTripsView.d",
+    "diagnostics" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/MyTripsView.dia",
+    "index-unit-output-path" : "/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/MyTripsView.o",
+    "llvm-bc" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/MyTripsView.bc",
+    "object" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/MyTripsView.o",
+    "swift-dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/MyTripsView.swiftdeps",
+    "swiftmodule" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/MyTripsView~partial.swiftmodule"
+  },
+  "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Views/TripCardView.swift" : {
+    "const-values" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripCardView.swiftconstvalues",
+    "dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripCardView.d",
+    "diagnostics" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripCardView.dia",
+    "index-unit-output-path" : "/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripCardView.o",
+    "llvm-bc" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripCardView.bc",
+    "object" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripCardView.o",
+    "swift-dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripCardView.swiftdeps",
+    "swiftmodule" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/TripCardView~partial.swiftmodule"
+  },
+  "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/build/AAMyTrips.build/Debug-iphonesimulator/AAMyTrips.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

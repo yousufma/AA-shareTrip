@@ -1,0 +1,40 @@
+{
+  "source": "/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Views/TripCardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Confirmation: ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gate %@",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "Seat %@",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share trip",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 129
+        }
+      }
+    ]
+  },
+  "version": 1
+}

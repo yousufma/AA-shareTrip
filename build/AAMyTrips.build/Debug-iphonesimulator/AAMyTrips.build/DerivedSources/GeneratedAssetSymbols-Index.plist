@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAccentColor</string>
+			<key>relativePath</key>
+			<string>./AccentColor.colorset</string>
+			<key>swiftSymbol</key>
+			<string>accent</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLosangeles</string>
+			<key>relativePath</key>
+			<string>./losangeles.imageset</string>
+			<key>swiftSymbol</key>
+			<string>losangeles</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameMiami</string>
+			<key>relativePath</key>
+			<string>./miami.imageset</string>
+			<key>swiftSymbol</key>
+			<string>miami</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/yousufahmad/MyStuff/Dev/AAMyTrips/AAMyTrips/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameNewyork</string>
+			<key>relativePath</key>
+			<string>./newyork.imageset</string>
+			<key>swiftSymbol</key>
+			<string>newyork</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
